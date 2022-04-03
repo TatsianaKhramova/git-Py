@@ -11,5 +11,4 @@ def print_number():
             print(i)
 
 if __name__ == '__main__':
-    #print number
     print_number()
